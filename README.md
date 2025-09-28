@@ -1,32 +1,35 @@
  <h1 align="center">Hi 👋, I'm Yasir Abdiaziz</h1>
 
+ ---
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F97316&center=true&width=435&lines=Building+beautiful+web+experiences;Learning+modern+Frontend+tools;Exploring+React+and+TailwindCSS;Open+to+collaboration+and+growth" alt="Typing SVG" />
+  ---
 </p>
 <h3 align="center">A passionate 🚀 Frontend Developer | 🤖 Machine Learning Enthusiast</h3>
-
+---
 ## 🚀 What I'm Doing Right Now
 
 - 🌱 I’m currently learning **Fullstack Software Engineering**  
 - 🔭 Building projects with **HTML, CSS, JavaScript, TailwindCSS**
 - 🎨 Sharpening my ** Machine Learning and Data Science skill**  
 - 🌱 Practicing **GitHub workflows** for team collaboration   
-- ✨ Writing clean, reusable, and accessible code  
+- ✨ Writing clean, reusable, and accessible code
+  ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigeryare&label=Profile%20views&color=0e75b6&style=flat" alt="tigeryare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigeryare" alt="tigeryare" /></a> </p>
 
 - 🔭 I’m currently working on [voting system](https://github.com/tigeryare/voting-system)
-
+---
 ### 💌 Let’s Connect
 
 - 📧 **Email:** [maxamedcabdicasiis637@gmail.com](mailto:maxamedcabdicasiis637@gmail.com )  
 - 🤝 **Available for:** Collaboration • Learning Projects • Open Source Contributions  
 - 🌐 **GitHub:** [github.com/tigeryare]( https://github.com/tigeryare)
- 
+ ---
 - 💬 Ask me about **Html ,CSS**
-
+---
  
 
 <h3 align="left">Languages and Tools:</h3>
